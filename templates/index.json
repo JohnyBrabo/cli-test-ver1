@@ -1,46 +1,48 @@
 {
   "sections": {
-    "16628050918c860318": {
-      "type": "image-with-text",
+    "16628105810f0d7b07": {
+      "type": "custom-image-with-text",
       "blocks": {
-        "16628050915a3a83fa-0": {
+        "c0988057-0dd2-4836-858c-307d6e37f8b5": {
           "type": "heading",
           "settings": {
-            "heading": "Customize Image With Text",
+            "heading": "Personalize Gift Boxes",
             "heading_size": "h1"
           }
         },
-        "16628050915a3a83fa-1": {
+        "dd0ca28e-262e-4f59-bbc3-9ff7ee04f0b6": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "Curated and personally hand-packed gift for your loved ones.",
             "text_style": "body"
           }
         },
-        "16628050915a3a83fa-2": {
-          "type": "button",
+        "dd83fd9e-a356-4094-b1db-21ef12bf5147": {
+          "type": "buttons",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false
           }
         }
       },
       "block_order": [
-        "16628050915a3a83fa-0",
-        "16628050915a3a83fa-1",
-        "16628050915a3a83fa-2"
+        "c0988057-0dd2-4836-858c-307d6e37f8b5",
+        "dd0ca28e-262e-4f59-bbc3-9ff7ee04f0b6",
+        "dd83fd9e-a356-4094-b1db-21ef12bf5147"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "image": "shopify:\/\/shop_images\/person-tilts-their-head-up-and-looks-at-the-camera.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
         "color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "16628056087c7f37bc": {
@@ -384,7 +386,7 @@
     }
   },
   "order": [
-    "16628050918c860318",
+    "16628105810f0d7b07",
     "16628056087c7f37bc",
     "featured-collection",
     "rich-text",

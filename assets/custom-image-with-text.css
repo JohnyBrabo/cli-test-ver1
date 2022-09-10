@@ -1,0 +1,11 @@
+.banner__buttons .button--primary { 
+    background: #FF6700 !important;
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 2rem;
+    border-radius: 27px;
+    border: 2px solid #fff;
+}
+.banner__buttons .button:after { 
+    box-shadow: none !important;
+}
