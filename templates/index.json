@@ -43,6 +43,12 @@
         "padding_bottom": 36
       }
     },
+    "16628056087c7f37bc": {
+      "type": "custom-usp",
+      "settings": {
+        "title": "Updated Again"
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -280,6 +286,7 @@
   },
   "order": [
     "16628050918c860318",
+    "16628056087c7f37bc",
     "featured-collection",
     "rich-text",
     "collage",
