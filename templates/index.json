@@ -37,7 +37,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -46,7 +46,7 @@
     "16628056087c7f37bc": {
       "type": "custom-usp",
       "settings": {
-        "title": "Updated Again"
+        "title": "Custom Usp Section"
       }
     },
     "featured-collection": {
@@ -64,7 +64,7 @@
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "image_ratio": "square",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -202,7 +202,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -277,7 +277,7 @@
         "email-form"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
