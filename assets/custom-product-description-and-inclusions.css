@@ -1,0 +1,13 @@
+.content__container { 
+    text-align: center;
+}
+.content__container .list-item ul { 
+    padding: 3rem 0;
+}
+.content__container .list-item li { 
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}

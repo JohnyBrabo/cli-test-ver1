@@ -58,7 +58,7 @@
     "text_boxes_shadow_horizontal_offset": 10,
     "text_boxes_shadow_vertical_offset": 12,
     "text_boxes_shadow_blur": 20,
-    "media_border_thickness": 1,
+    "media_border_thickness": 0,
     "media_border_opacity": 10,
     "media_radius": 0,
     "media_shadow_opacity": 0,
@@ -96,7 +96,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
     "currency_code_enabled": true,
-    "cart_type": "notification",
+    "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": true,
     "sections": {
